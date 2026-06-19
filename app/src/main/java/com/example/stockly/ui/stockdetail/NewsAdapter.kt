@@ -1,4 +1,4 @@
-package com.example.stockly.ui.breeddetail
+package com.example.stockly.ui.stockdetail
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

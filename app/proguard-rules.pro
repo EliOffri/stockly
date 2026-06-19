@@ -1,1 +1,1 @@
--keep class com.example.dogadoption.data.remote.model.** { *; }
+-keep class com.example.stockly.data.remote.model.** { *; }

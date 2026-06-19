@@ -1,4 +1,4 @@
-package com.example.stockly.ui.adoption
+package com.example.stockly.ui.trade
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

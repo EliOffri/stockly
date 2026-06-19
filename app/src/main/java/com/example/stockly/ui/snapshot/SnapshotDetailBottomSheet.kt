@@ -1,4 +1,4 @@
-package com.example.stockly.ui.reportstray
+package com.example.stockly.ui.snapshot
 
 import android.graphics.Typeface
 import android.net.Uri

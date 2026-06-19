@@ -1,4 +1,4 @@
-package com.example.stockly.ui.donation
+package com.example.stockly.ui.pricealert
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

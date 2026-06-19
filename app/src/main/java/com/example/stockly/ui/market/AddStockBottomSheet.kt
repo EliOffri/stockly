@@ -1,4 +1,4 @@
-package com.example.stockly.ui.home
+package com.example.stockly.ui.market
 
 import android.os.Bundle
 import android.view.LayoutInflater

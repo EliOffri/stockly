@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.stockly.ui.home.MarketFragment"
+        android:name="com.example.stockly.ui.market.MarketFragment"
         android:label="@string/title_home">
         <action
             android:id="@+id/action_homeFragment_to_stockDetailFragment"
@@ -15,7 +15,7 @@
 
     <fragment
         android:id="@+id/stockDetailFragment"
-        android:name="com.example.stockly.ui.breeddetail.StockDetailFragment"
+        android:name="com.example.stockly.ui.stockdetail.StockDetailFragment"
         android:label="@string/title_stock_detail">
         <argument
             android:name="symbol"
@@ -33,7 +33,7 @@
 
     <fragment
         android:id="@+id/watchlistFragment"
-        android:name="com.example.stockly.ui.favorites.WatchlistFragment"
+        android:name="com.example.stockly.ui.watchlist.WatchlistFragment"
         android:label="@string/title_watchlist">
         <action
             android:id="@+id/action_watchlistFragment_to_stockDetailFragment"
@@ -42,7 +42,7 @@
 
     <fragment
         android:id="@+id/tradeFragment"
-        android:name="com.example.stockly.ui.adoption.TradeFragment"
+        android:name="com.example.stockly.ui.trade.TradeFragment"
         android:label="@string/title_trade">
         <argument
             android:name="symbol"
@@ -51,12 +51,12 @@
 
     <fragment
         android:id="@+id/alertFragment"
-        android:name="com.example.stockly.ui.donation.PriceAlertFragment"
+        android:name="com.example.stockly.ui.pricealert.PriceAlertFragment"
         android:label="@string/title_price_alert" />
 
     <fragment
         android:id="@+id/snapshotFragment"
-        android:name="com.example.stockly.ui.reportstray.MarketSnapshotFragment"
+        android:name="com.example.stockly.ui.snapshot.MarketSnapshotFragment"
         android:label="@string/title_market_snapshot" />
 
 </navigation>

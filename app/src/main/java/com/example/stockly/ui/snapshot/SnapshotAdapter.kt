@@ -1,4 +1,4 @@
-package com.example.stockly.ui.reportstray
+package com.example.stockly.ui.snapshot
 
 import android.net.Uri
 import android.view.LayoutInflater

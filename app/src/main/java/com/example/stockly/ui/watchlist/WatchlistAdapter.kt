@@ -1,4 +1,4 @@
-package com.example.stockly.ui.favorites
+package com.example.stockly.ui.watchlist
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
